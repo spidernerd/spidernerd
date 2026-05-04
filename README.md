@@ -1,4 +1,3 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=140&color=0d3b66&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
 <h1 align="center">Olá, eu sou o Iron · Hi, I'm Iron</h1>
 
 ###
@@ -108,13 +107,11 @@ I am currently seeking **international opportunities** where I can apply my expe
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="35" alt="illustrator" />
 <img width="10" />
-<img src="https://cdn.simpleicons.org/adobeindesign/E84C2E" height="35" alt="indesign" />
-<img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
 <img width="10" />
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ironherrero&locale=pt_BR&hide_title=false&layout=compact&card_width=500&langs_count=9&theme=tokyonight&hide_border=false" height="500" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spidernerd&locale=pt_BR&hide_title=false&layout=compact&card_width=500&langs_count=9&theme=tokyonight&hide_border=false" height="500" alt="languages graph"  />
   </div>
 </div>
 
@@ -146,4 +143,3 @@ I am currently seeking **international opportunities** where I can apply my expe
   <em>"Code that sustains revenue, not just runs in dev."</em>
 </p>
 
-![](https://capsule-render.vercel.app/api?type=waving&height=80&color=0d3b66&section=footer)
