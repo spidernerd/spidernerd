@@ -109,9 +109,6 @@ I am currently seeking **international opportunities** where I can apply my expe
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
 <img width="10" />
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spidernerd&locale=pt_BR&hide_title=false&layout=compact&card_width=500&langs_count=9&theme=tokyonight&hide_border=false" height="500" alt="languages graph"  />
   </div>
 </div>
 
