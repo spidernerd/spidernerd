@@ -46,7 +46,7 @@ I am currently seeking **international opportunities** where I can apply my expe
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ironherrero&locale=pt_BR&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=spidernerd&locale=pt_BR&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ---
